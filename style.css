@@ -1,15 +1,21 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Radio Canada', sans-serif;
 }
 
 header{
     background-color: rgb(78, 160, 255);
     height: 195px;
+    background-image: ("./img/pattern.png") ;
     background-repeat: repeat-x;
 }
 
 .cropper{
     height: 190px;
     overflow: hidden;
+}
+
+h1{
+    border-right: 50px;
 }
