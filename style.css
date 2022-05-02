@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(78, 160, 255);
+    height: 195px;
+    background-repeat: repeat-x;
+}
+
+.color1{
+    border-top: 200px solid red;
+    border
+}
