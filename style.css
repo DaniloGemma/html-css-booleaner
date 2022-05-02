@@ -47,6 +47,10 @@ h1{
     font-size: small;
 }
 
+.margin{
+    margin-right: 250px;
+}
+
 .yellow{
     background: #ffff00;
 }
@@ -70,4 +74,16 @@ th{
 
 .sfondo{
     background: rgb(177, 229, 242);
+}
+
+.last-pics{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+h3{
+    color: white;
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 20px;
 }
