@@ -11,6 +11,10 @@ header{
     background-repeat: repeat-x;
 }
 
+section{
+    margin-left: 10px; 
+}
+
 .cropper{
     height: 190px;
     overflow: hidden;
@@ -26,7 +30,7 @@ h1{
     margin-left: 10px;
 }
 
-span{
+.cyan{
     color: rgb(39, 172, 230);
 }
 
@@ -36,6 +40,9 @@ span{
 }
 
 .subtitle{
-    margin-left: 10px;
     font-size: small;
+}
+
+.yellow{
+    background: #ffff00;
 }
