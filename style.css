@@ -9,7 +9,7 @@ header{
     background-repeat: repeat-x;
 }
 
-.color1{
-    border-top: 200px solid red;
-    border
+.cropper{
+    height: 190px;
+    overflow: hidden;
 }
