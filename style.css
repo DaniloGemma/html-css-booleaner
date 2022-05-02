@@ -1,13 +1,13 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Radio Canada', sans-serif;
+     font-family: 'Roboto', sans-serif;
 }
 
 header{
     background-color: rgb(78, 160, 255);
     height: 195px;
-    background-image: ("./img/pattern.png") ;
+    background-image: url("./img/pattern.png") ;
     background-repeat: repeat-x;
 }
 
@@ -17,5 +17,25 @@ header{
 }
 
 h1{
-    border-right: 50px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.grey{
+    color: grey;
+    margin-left: 10px;
+}
+
+span{
+    color: rgb(39, 172, 230);
+}
+
+.pics{
+    margin-top: 125px;
+    margin-left: 10px;
+}
+
+.subtitle{
+    margin-left: 10px;
+    font-size: small;
 }
