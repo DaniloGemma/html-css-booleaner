@@ -49,6 +49,7 @@ h1{
 
 .margin{
     margin-right: 250px;
+    border-collapse: collapse;
 }
 
 .yellow{
@@ -62,10 +63,11 @@ h1{
 thead{
     color: white;
     background: rgb(32, 169, 229);
+    text-align: center;
 }
 
 th{
-    padding-right: 150px;
+    width: 800px;
 }
 
 .space{
